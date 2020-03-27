@@ -1,15 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net;
-using System.Web.Http;
 using Swashbuckle.Swagger.Annotations;
 using StarWars.Models;
 using StarWars.Repositorio;
+using System.Net;
+using System.Web.Http;
+using HttpGetAttribute = System.Web.Http.HttpGetAttribute;
+using RoutePrefixAttribute = System.Web.Http.RoutePrefixAttribute;
+using RouteAttribute = System.Web.Http.RouteAttribute;
 
 namespace StarWars.Api.Controllers
 {
     [RoutePrefix("api/v1/starWars/")]
-    class StarWarsController
+    class StarWarsController : ApiController
     {
         /// <summary>
         /// Busca pessoa pelo nome

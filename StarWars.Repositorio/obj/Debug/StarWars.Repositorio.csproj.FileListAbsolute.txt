@@ -1,2 +1,13 @@
 C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\obj\Debug\StarWars.Repositorio.csprojAssemblyReference.cache
 C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\obj\Debug\StarWars.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\StarWars.Repositorio.dll.config
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\StarWars.Repositorio.dll
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\StarWars.Repositorio.pdb
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\StarWars.Models.dll
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\StarWars.Models.pdb
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\StarWars.Models.dll.config
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\obj\Debug\StarWars.Repositorio.csproj.CopyComplete
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\obj\Debug\StarWars.Repositorio.dll
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Repositorio\obj\Debug\StarWars.Repositorio.pdb
