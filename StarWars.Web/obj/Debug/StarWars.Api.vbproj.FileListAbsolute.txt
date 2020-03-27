@@ -1,0 +1,4 @@
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Web\obj\Debug\StarWars.Api.vbprojAssemblyReference.cache
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Web\obj\Debug\StarWars.Web.Resources.resources
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Web\obj\Debug\StarWars.Api.vbproj.GenerateResource.cache
+C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Web\obj\Debug\StarWars.Api.vbproj.CoreCompileInputs.cache
