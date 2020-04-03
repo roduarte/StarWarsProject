@@ -12,7 +12,7 @@ using RouteAttribute = System.Web.Http.RouteAttribute;
 namespace StarWars.Api.Controllers
 {
     [RoutePrefix("api/v1/starWars/")]
-    class StarWarsController : ApiController
+    public class StarWarsController : ApiController
     {
         /// <summary>
         /// Busca pessoa pelo nome

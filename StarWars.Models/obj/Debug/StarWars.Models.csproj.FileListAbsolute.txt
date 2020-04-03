@@ -1,4 +1,3 @@
-C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Models\obj\Debug\StarWars.Models.csprojAssemblyReference.cache
 C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Models\obj\Debug\StarWars.Models.csproj.CoreCompileInputs.cache
 C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Models\bin\Debug\StarWars.Models.dll.config
 C:\Users\maari\OneDrive\Área de Trabalho\Localiza\Treino\StarWars\StarWars.Models\bin\Debug\StarWars.Models.dll
